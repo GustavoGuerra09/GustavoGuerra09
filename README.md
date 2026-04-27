@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About me
-- 📚 Currently learning **Dart, Flutter and JSON**
+- 📚 Currently learning **Dart, Flutter **
 - 🚀 Focused on becoming a **Mobile Developer**
 - 🔥 Always improving my programming skills
 
@@ -16,7 +16,7 @@
 
 ### 📱 Connect with me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="<a href="https://wa.me/5516999791515">"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
