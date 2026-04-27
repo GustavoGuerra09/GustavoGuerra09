@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About me
-- 📚 Currently learning **Dart, Flutter **
+- 📚 Currently learning **Dart, Flutter and JSON**
 - 🚀 Focused on becoming a **Mobile Developer**
 - 🔥 Always improving my programming skills
 
@@ -16,9 +16,13 @@
 
 ### 📱 Connect with me
 <p>
-  <a href="<a href="https://wa.me/5516999791515">"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://wa.me/5516999791515">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/gustavo_guerra.8/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -32,12 +36,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoGuerra09&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGuerra09&layout=compact&theme=tokyonight"/>
 </p>
