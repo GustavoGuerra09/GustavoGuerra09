@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Gustavo 👋</h1>
 
-<!--
-**GustavoGuerra09/GustavoGuerra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Aspiring Mobile Developer <br>
+🇧🇷 From Brazil
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About me
+- 📚 Currently learning **Dart, Flutter and JSON**
+- 🚀 Focused on becoming a **Mobile Developer**
+- 🔥 Always improving my programming skills
+
+---
+
+### 📱 Connect with me
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
