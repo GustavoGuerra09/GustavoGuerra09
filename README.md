@@ -10,10 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=GustavoGuerra09&label=VISITORS&color=6a00ff&style=flat"/>
 </p>
 
----
 
-### 🧑‍💻 whoami
-``bash
 > name: Gustavo Guerra
 > role: Mobile Developer (in progress)
 > location: Brazil 🇧🇷
