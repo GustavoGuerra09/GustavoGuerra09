@@ -16,7 +16,7 @@
 name: Gustavo Guerra
 role: Mobile Developer (in progress)
 location: Brazil 🇧🇷
-stack: Dart | Flutter | Git
+stack: Dart | Flutter | 
 focus: Building real apps
 ```
 <p align="center"> <a href="https://wa.me/5516999791515"> <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=9D00FF"/> </a> <a href="https://www.instagram.com/gustavo_guerra.8/"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=9D00FF"/> </a> <a href="https://www.linkedin.com/in/gustavo-guerra-santos/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9D00FF"/> </a> </p>
